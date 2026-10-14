@@ -1,0 +1,2099 @@
+{
+ "6": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5379,
+    "assigned": "chakameh-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "7": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 72,
+    "y": 792,
+    "w": 1074,
+    "h": 874,
+    "assigned": "chakameh-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2374,
+    "y": 2024,
+    "w": 1548,
+    "h": 1462,
+    "assigned": "chakameh-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 468,
+    "y": 3326,
+    "w": 1724,
+    "h": 1676,
+    "assigned": "chakameh-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2186,
+    "y": 5146,
+    "w": 2188,
+    "h": 1320,
+    "assigned": "chakameh-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 1082,
+    "y": 6446,
+    "w": 1534,
+    "h": 1554,
+    "assigned": "chakameh-6.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "8": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 132,
+    "y": 864,
+    "w": 1656,
+    "h": 866,
+    "assigned": "chakameh-7.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2284,
+    "y": 2130,
+    "w": 1884,
+    "h": 1210,
+    "assigned": "chakameh-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 188,
+    "y": 3750,
+    "w": 1914,
+    "h": 1270,
+    "assigned": "chakameh-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2050,
+    "y": 4874,
+    "w": 1646,
+    "h": 1660,
+    "assigned": "chakameh-10.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 482,
+    "y": 6532,
+    "w": 1696,
+    "h": 1718,
+    "assigned": "chakameh-11.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "9": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 378,
+    "y": 608,
+    "w": 1398,
+    "h": 1214,
+    "assigned": "chakameh-12.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2142,
+    "y": 2122,
+    "w": 1976,
+    "h": 1118,
+    "assigned": "chakameh-13.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 462,
+    "y": 3436,
+    "w": 1584,
+    "h": 1602,
+    "assigned": "chakameh-14.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2000,
+    "y": 5438,
+    "w": 2158,
+    "h": 1182,
+    "assigned": "chakameh-15.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 4
+ },
+ "11": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5547,
+    "assigned": "mahtab-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "12": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 286,
+    "y": 476,
+    "w": 1496,
+    "h": 1326,
+    "assigned": "mahtab-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2496,
+    "y": 1872,
+    "w": 1184,
+    "h": 1320,
+    "assigned": "mahtab-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 268,
+    "y": 3114,
+    "w": 1580,
+    "h": 1196,
+    "assigned": "mahtab-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2408,
+    "y": 4316,
+    "w": 1192,
+    "h": 1298,
+    "assigned": "mahtab-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 746,
+    "y": 5516,
+    "w": 1642,
+    "h": 1130,
+    "assigned": "mahtab-6.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2146,
+    "y": 6770,
+    "w": 1308,
+    "h": 1134,
+    "assigned": "mahtab-7.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 7
+ },
+ "13": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 126,
+    "y": 546,
+    "w": 1722,
+    "h": 1174,
+    "assigned": "mahtab-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2520,
+    "y": 1836,
+    "w": 1516,
+    "h": 1120,
+    "assigned": "mahtab-10.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 458,
+    "y": 3038,
+    "w": 1562,
+    "h": 1266,
+    "assigned": "mahtab-11.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2358,
+    "y": 4352,
+    "w": 1834,
+    "h": 1218,
+    "assigned": "mahtab-12.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 310,
+    "y": 5682,
+    "w": 1866,
+    "h": 1236,
+    "assigned": "mahtab-13.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 0,
+    "y": 7034,
+    "w": 2768,
+    "h": 966,
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "19": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5441,
+    "assigned": "avin-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "20": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 252,
+    "y": 306,
+    "w": 1648,
+    "h": 1538,
+    "assigned": "avin-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2286,
+    "y": 1794,
+    "w": 1676,
+    "h": 1558,
+    "assigned": "avin-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 346,
+    "y": 3366,
+    "w": 1596,
+    "h": 1440,
+    "assigned": "avin-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2116,
+    "y": 4852,
+    "w": 1732,
+    "h": 1596,
+    "assigned": "avin-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 358,
+    "y": 6478,
+    "w": 1586,
+    "h": 1466,
+    "assigned": "avin-6.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "25": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5353,
+    "assigned": "forouz-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "26": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 128,
+    "y": 708,
+    "w": 1692,
+    "h": 1128,
+    "assigned": "forouz-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2342,
+    "y": 1764,
+    "w": 1158,
+    "h": 1460,
+    "assigned": "forouz-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 196,
+    "y": 3156,
+    "w": 1860,
+    "h": 950,
+    "assigned": "forouz-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2336,
+    "y": 4366,
+    "w": 1294,
+    "h": 1202,
+    "assigned": "forouz-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 862,
+    "y": 5418,
+    "w": 1126,
+    "h": 1256,
+    "assigned": "forouz-6.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2272,
+    "y": 6652,
+    "w": 1262,
+    "h": 1300,
+    "assigned": "forouz-7.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "27": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 358,
+    "y": 698,
+    "w": 1408,
+    "h": 1222,
+    "assigned": "forouz-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2208,
+    "y": 1900,
+    "w": 1550,
+    "h": 1506,
+    "assigned": "forouz-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 600,
+    "y": 2876,
+    "w": 1508,
+    "h": 1762,
+    "assigned": "forouz-10.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2222,
+    "y": 4400,
+    "w": 1794,
+    "h": 1554,
+    "assigned": "forouz-11.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 786,
+    "y": 5622,
+    "w": 1528,
+    "h": 1344,
+    "assigned": "forouz-12.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2170,
+    "y": 6714,
+    "w": 1386,
+    "h": 1536,
+    "assigned": "forouz-13.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "28": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 312,
+    "y": 676,
+    "w": 1520,
+    "h": 1258,
+    "assigned": "forouz-14.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2318,
+    "y": 1928,
+    "w": 1574,
+    "h": 1370,
+    "assigned": "forouz-15.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 388,
+    "y": 3124,
+    "w": 1596,
+    "h": 1222,
+    "assigned": "forouz-16.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2174,
+    "y": 4322,
+    "w": 1498,
+    "h": 1524,
+    "assigned": "forouz-17.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 708,
+    "y": 5516,
+    "w": 1632,
+    "h": 1404,
+    "assigned": "forouz-18.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2096,
+    "y": 6836,
+    "w": 1504,
+    "h": 1306,
+    "assigned": "forouz-19.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "35": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5403,
+    "assigned": "ferdows-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "36": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 92,
+    "y": 840,
+    "w": 1846,
+    "h": 968,
+    "assigned": "ferdows-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2324,
+    "y": 2324,
+    "w": 1976,
+    "h": 920,
+    "assigned": "ferdows-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 192,
+    "y": 3852,
+    "w": 1924,
+    "h": 816,
+    "assigned": "ferdows-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2268,
+    "y": 5008,
+    "w": 2086,
+    "h": 1368,
+    "assigned": "ferdows-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 124,
+    "y": 6478,
+    "w": 2164,
+    "h": 1430,
+    "assigned": "ferdows-6.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "37": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 32,
+    "y": 616,
+    "w": 1952,
+    "h": 1214,
+    "assigned": "ferdows-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2038,
+    "y": 2004,
+    "w": 2154,
+    "h": 1388,
+    "assigned": "ferdows-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 274,
+    "y": 3446,
+    "w": 2042,
+    "h": 1450,
+    "assigned": "ferdows-10.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 1874,
+    "y": 4922,
+    "w": 2288,
+    "h": 1526,
+    "assigned": "ferdows-11.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 136,
+    "y": 6332,
+    "w": 2298,
+    "h": 1550,
+    "assigned": "ferdows-12.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "38": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 2070,
+    "y": 1896,
+    "w": 1984,
+    "h": 1278,
+    "assigned": "ferdows-14.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 216,
+    "y": 3582,
+    "w": 2206,
+    "h": 1078,
+    "assigned": "ferdows-15.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2136,
+    "y": 4800,
+    "w": 2052,
+    "h": 1502,
+    "assigned": "ferdows-16.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "39": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 336,
+    "w": 2014,
+    "h": 1486,
+    "assigned": "ferdows-19.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2300,
+    "y": 1916,
+    "w": 1828,
+    "h": 1350,
+    "assigned": "ferdows-20.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2328,
+    "y": 4802,
+    "w": 2034,
+    "h": 1562,
+    "assigned": "ferdows-21.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 74,
+    "y": 6686,
+    "w": 2112,
+    "h": 1314,
+    "assigned": "ferdows-22.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "40": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 90,
+    "y": 696,
+    "w": 2216,
+    "h": 1388,
+    "assigned": "ferdows-24.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2142,
+    "y": 2052,
+    "w": 2064,
+    "h": 1222,
+    "assigned": "ferdows-25.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 114,
+    "y": 3828,
+    "w": 2320,
+    "h": 982,
+    "assigned": "ferdows-26.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 1994,
+    "y": 5206,
+    "w": 2214,
+    "h": 1126,
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 3
+ },
+ "43": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5412,
+    "assigned": "golestan-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "44": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 54,
+    "y": 908,
+    "w": 2230,
+    "h": 1138,
+    "assigned": "golestan-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 1870,
+    "y": 1958,
+    "w": 2318,
+    "h": 1450,
+    "assigned": "golestan-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 202,
+    "y": 3426,
+    "w": 2230,
+    "h": 1332,
+    "assigned": "golestan-4.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "45": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 184,
+    "y": 328,
+    "w": 2060,
+    "h": 1354,
+    "assigned": "golestan-7.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2574,
+    "y": 2178,
+    "w": 1662,
+    "h": 1090,
+    "assigned": "golestan-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 332,
+    "y": 3582,
+    "w": 2052,
+    "h": 1118,
+    "assigned": "golestan-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2430,
+    "y": 5196,
+    "w": 1896,
+    "h": 980,
+    "assigned": "golestan-10.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 208,
+    "y": 6688,
+    "w": 1970,
+    "h": 1022,
+    "assigned": "golestan-11.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "46": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 120,
+    "y": 612,
+    "w": 2092,
+    "h": 950,
+    "assigned": "golestan-12.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2554,
+    "y": 2076,
+    "w": 1884,
+    "h": 1002,
+    "assigned": "golestan-13.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2252,
+    "y": 4856,
+    "w": 1716,
+    "h": 1378,
+    "assigned": "golestan-14.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 296,
+    "y": 6424,
+    "w": 1816,
+    "h": 1490,
+    "assigned": "golestan-15.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "47": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 174,
+    "y": 628,
+    "w": 1780,
+    "h": 1172,
+    "assigned": "golestan-17.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2460,
+    "y": 1894,
+    "w": 1824,
+    "h": 1328,
+    "assigned": "golestan-18.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 184,
+    "y": 3556,
+    "w": 1902,
+    "h": 1226,
+    "assigned": "golestan-19.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2258,
+    "y": 4704,
+    "w": 1784,
+    "h": 1662,
+    "assigned": "golestan-20.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 298,
+    "y": 6334,
+    "w": 1840,
+    "h": 1506,
+    "assigned": "golestan-21.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "55": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5320,
+    "assigned": "miras-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "56": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 496,
+    "y": 392,
+    "w": 1200,
+    "h": 1502,
+    "assigned": "miras-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2216,
+    "y": 4226,
+    "w": 1126,
+    "h": 1422,
+    "assigned": "miras-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 950,
+    "y": 5342,
+    "w": 1122,
+    "h": 1482,
+    "assigned": "miras-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2138,
+    "y": 6572,
+    "w": 1062,
+    "h": 1394,
+    "assigned": "miras-5.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 7
+ },
+ "57": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 486,
+    "y": 386,
+    "w": 1126,
+    "h": 1550,
+    "assigned": "miras-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2254,
+    "y": 1678,
+    "w": 1304,
+    "h": 1638,
+    "assigned": "miras-10.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2304,
+    "y": 4142,
+    "w": 1238,
+    "h": 1562,
+    "assigned": "miras-11.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 574,
+    "y": 5242,
+    "w": 1310,
+    "h": 1648,
+    "assigned": "miras-12.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "58": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 450,
+    "y": 474,
+    "w": 1304,
+    "h": 1652,
+    "assigned": "miras-15.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2300,
+    "y": 1966,
+    "w": 1324,
+    "h": 1666,
+    "assigned": "miras-16.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 574,
+    "y": 3212,
+    "w": 1380,
+    "h": 1712,
+    "assigned": "miras-17.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2220,
+    "y": 4616,
+    "w": 1322,
+    "h": 1666,
+    "assigned": "miras-18.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 678,
+    "y": 6046,
+    "w": 1488,
+    "h": 1860,
+    "assigned": "miras-19.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "60": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5337,
+    "assigned": "rastin-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "61": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 812,
+    "y": 362,
+    "w": 1096,
+    "h": 1480,
+    "assigned": "rastin-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2646,
+    "y": 1858,
+    "w": 996,
+    "h": 1504,
+    "assigned": "rastin-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 812,
+    "y": 3262,
+    "w": 1164,
+    "h": 1472,
+    "assigned": "rastin-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2522,
+    "y": 4592,
+    "w": 1170,
+    "h": 1650,
+    "assigned": "rastin-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 742,
+    "y": 6288,
+    "w": 1184,
+    "h": 1552,
+    "assigned": "rastin-6.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "62": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 580,
+    "y": 416,
+    "w": 1070,
+    "h": 1442,
+    "assigned": "rastin-7.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2678,
+    "y": 1772,
+    "w": 980,
+    "h": 1472,
+    "assigned": "rastin-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 696,
+    "y": 3120,
+    "w": 1162,
+    "h": 1684,
+    "assigned": "rastin-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2512,
+    "y": 4708,
+    "w": 1180,
+    "h": 1660,
+    "assigned": "rastin-10.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "66": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5320,
+    "assigned": "naghmeh-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "67": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 232,
+    "y": 550,
+    "w": 1660,
+    "h": 1354,
+    "assigned": "naghmeh-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2630,
+    "y": 2018,
+    "w": 1462,
+    "h": 1320,
+    "assigned": "naghmeh-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 180,
+    "y": 3450,
+    "w": 1774,
+    "h": 1586,
+    "assigned": "naghmeh-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2308,
+    "y": 4964,
+    "w": 1684,
+    "h": 1390,
+    "assigned": "naghmeh-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 216,
+    "y": 6780,
+    "w": 1780,
+    "h": 1030,
+    "assigned": "naghmeh-6.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "68": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 262,
+    "y": 420,
+    "w": 1812,
+    "h": 1354,
+    "assigned": "naghmeh-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2408,
+    "y": 2014,
+    "w": 1866,
+    "h": 1250,
+    "assigned": "naghmeh-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 282,
+    "y": 3454,
+    "w": 2010,
+    "h": 1440,
+    "assigned": "naghmeh-10.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2542,
+    "y": 5156,
+    "w": 1766,
+    "h": 1024,
+    "assigned": "naghmeh-11.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 328,
+    "y": 6542,
+    "w": 1810,
+    "h": 1354,
+    "assigned": "naghmeh-12.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "69": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 174,
+    "y": 486,
+    "w": 1860,
+    "h": 1340,
+    "assigned": "naghmeh-14.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2428,
+    "y": 1872,
+    "w": 1864,
+    "h": 1416,
+    "assigned": "naghmeh-15.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2000,
+    "y": 4828,
+    "w": 2250,
+    "h": 1572,
+    "assigned": "naghmeh-16.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 70,
+    "y": 6334,
+    "w": 2430,
+    "h": 1598,
+    "assigned": "naghmeh-17.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 4
+ },
+ "70": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 2270,
+    "y": 2016,
+    "w": 1814,
+    "h": 1276,
+    "assigned": "naghmeh-18.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 308,
+    "y": 3474,
+    "w": 1806,
+    "h": 1326,
+    "assigned": "naghmeh-19.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 3
+ },
+ "73": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5353,
+    "assigned": "delkash-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "74": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 326,
+    "y": 370,
+    "w": 1454,
+    "h": 1634,
+    "assigned": "delkash-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2692,
+    "y": 1724,
+    "w": 1466,
+    "h": 1668,
+    "assigned": "delkash-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 316,
+    "y": 3058,
+    "w": 1664,
+    "h": 1826,
+    "assigned": "delkash-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2604,
+    "y": 4740,
+    "w": 1542,
+    "h": 1810,
+    "assigned": "delkash-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 508,
+    "y": 6204,
+    "w": 1454,
+    "h": 1750,
+    "assigned": "delkash-6.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "75": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 398,
+    "y": 276,
+    "w": 1558,
+    "h": 1612,
+    "assigned": "delkash-7.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2560,
+    "y": 1758,
+    "w": 1488,
+    "h": 1532,
+    "assigned": "delkash-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2582,
+    "y": 4744,
+    "w": 1642,
+    "h": 1696,
+    "assigned": "delkash-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 180,
+    "y": 6248,
+    "w": 1626,
+    "h": 1684,
+    "assigned": "delkash-10.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "76": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 2566,
+    "y": 1768,
+    "w": 1538,
+    "h": 1504,
+    "assigned": "delkash-12.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 208,
+    "y": 3222,
+    "w": 2128,
+    "h": 1774,
+    "assigned": "delkash-13.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2548,
+    "y": 4634,
+    "w": 1666,
+    "h": 1758,
+    "assigned": "delkash-14.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 342,
+    "y": 6144,
+    "w": 2094,
+    "h": 1768,
+    "assigned": "delkash-15.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "77": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 518,
+    "y": 718,
+    "w": 1302,
+    "h": 1082,
+    "assigned": "delkash-17.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2428,
+    "y": 1606,
+    "w": 1372,
+    "h": 1656,
+    "assigned": "delkash-18.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 48,
+    "y": 7092,
+    "w": 2870,
+    "h": 908,
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 2
+ },
+ "63": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 3637,
+    "h": 4895,
+    "assigned": "shirin-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "64": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 520,
+    "y": 382,
+    "w": 1280,
+    "h": 1606,
+    "assigned": "shirin-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2646,
+    "y": 1704,
+    "w": 1346,
+    "h": 1618,
+    "assigned": "shirin-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 208,
+    "y": 6432,
+    "w": 1484,
+    "h": 1492,
+    "assigned": "shirin-4.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "65": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 358,
+    "y": 458,
+    "w": 1486,
+    "h": 1538,
+    "assigned": "shirin-7.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2786,
+    "y": 1824,
+    "w": 1294,
+    "h": 1552,
+    "assigned": "shirin-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 554,
+    "y": 3374,
+    "w": 1164,
+    "h": 1530,
+    "assigned": "shirin-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 0,
+    "y": 7070,
+    "w": 2924,
+    "h": 930,
+    "assigned": "shirin-10.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 9
+ },
+ "71": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5287,
+    "assigned": "afraz-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "72": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 2478,
+    "y": 1770,
+    "w": 1734,
+    "h": 1756,
+    "assigned": "afraz-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 238,
+    "y": 3250,
+    "w": 1796,
+    "h": 1830,
+    "assigned": "afraz-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2462,
+    "y": 4744,
+    "w": 1826,
+    "h": 1884,
+    "assigned": "afraz-4.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 4
+ },
+ "78": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 4982,
+    "assigned": "shaukat-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "79": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 242,
+    "y": 490,
+    "w": 1772,
+    "h": 1558,
+    "assigned": "shaukat-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2340,
+    "y": 1740,
+    "w": 1810,
+    "h": 1658,
+    "assigned": "shaukat-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 266,
+    "y": 3378,
+    "w": 1892,
+    "h": 1694,
+    "assigned": "shaukat-4.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 4
+ },
+ "15": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5333,
+    "assigned": "farkhondeh-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "16": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 468,
+    "w": 2124,
+    "h": 1404,
+    "assigned": "farkhondeh-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2404,
+    "y": 2046,
+    "w": 1864,
+    "h": 1338,
+    "assigned": "farkhondeh-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 186,
+    "y": 3438,
+    "w": 1928,
+    "h": 1510,
+    "assigned": "farkhondeh-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2034,
+    "y": 5014,
+    "w": 1838,
+    "h": 1470,
+    "assigned": "farkhondeh-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 324,
+    "y": 6650,
+    "w": 1892,
+    "h": 1436,
+    "assigned": "farkhondeh-6.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "17": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 326,
+    "y": 308,
+    "w": 1828,
+    "h": 1402,
+    "assigned": "farkhondeh-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2224,
+    "y": 1876,
+    "w": 1768,
+    "h": 1312,
+    "assigned": "farkhondeh-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 350,
+    "y": 3316,
+    "w": 1926,
+    "h": 1484,
+    "assigned": "farkhondeh-10.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 3
+ },
+ "31": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 4862,
+    "assigned": "nabat-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "32": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 420,
+    "y": 968,
+    "w": 1272,
+    "h": 834,
+    "assigned": "nabat-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2056,
+    "y": 2046,
+    "w": 1836,
+    "h": 1386,
+    "assigned": "nabat-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 432,
+    "y": 3568,
+    "w": 1450,
+    "h": 1320,
+    "assigned": "nabat-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2400,
+    "y": 4966,
+    "w": 1586,
+    "h": 1252,
+    "assigned": "nabat-5.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "34": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5457,
+    "assigned": "soha-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "41": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5599,
+    "assigned": "charmineh-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "42": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 454,
+    "y": 340,
+    "w": 1264,
+    "h": 1556,
+    "assigned": "charmineh-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2262,
+    "y": 1692,
+    "w": 1250,
+    "h": 1478,
+    "assigned": "charmineh-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 596,
+    "y": 2834,
+    "w": 1354,
+    "h": 1644,
+    "assigned": "charmineh-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2210,
+    "y": 4104,
+    "w": 1264,
+    "h": 1544,
+    "assigned": "charmineh-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 278,
+    "y": 5358,
+    "w": 1288,
+    "h": 1574,
+    "assigned": "charmineh-6.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2340,
+    "y": 6342,
+    "w": 1272,
+    "h": 1658,
+    "assigned": "charmineh-7.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "30": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5245,
+    "assigned": "naghsh-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "49": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5478,
+    "assigned": "ara-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "50": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 394,
+    "y": 268,
+    "w": 1318,
+    "h": 1650,
+    "assigned": "ara-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2432,
+    "y": 1652,
+    "w": 1484,
+    "h": 1700,
+    "assigned": "ara-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 646,
+    "y": 3178,
+    "w": 1434,
+    "h": 1636,
+    "assigned": "ara-4.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2402,
+    "y": 4542,
+    "w": 1526,
+    "h": 1954,
+    "assigned": "ara-5.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 542,
+    "y": 6132,
+    "w": 1574,
+    "h": 1794,
+    "assigned": "ara-6.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 6
+ },
+ "51": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 300,
+    "y": 258,
+    "w": 1400,
+    "h": 1702,
+    "assigned": "ara-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 414,
+    "y": 3238,
+    "w": 1546,
+    "h": 1668,
+    "assigned": "ara-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2256,
+    "y": 4574,
+    "w": 1502,
+    "h": 1954,
+    "assigned": "ara-10.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 442,
+    "y": 6120,
+    "w": 1498,
+    "h": 1806,
+    "assigned": "ara-11.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 4
+ },
+ "52": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5008,
+    "assigned": "shabnam-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "53": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 128,
+    "y": 528,
+    "w": 1760,
+    "h": 1308,
+    "assigned": "shabnam-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 246,
+    "y": 3438,
+    "w": 1662,
+    "h": 1280,
+    "assigned": "shabnam-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2220,
+    "y": 5190,
+    "w": 1876,
+    "h": 986,
+    "assigned": "shabnam-4.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "54": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 2234,
+    "y": 2164,
+    "w": 1878,
+    "h": 986,
+    "assigned": "shabnam-7.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 226,
+    "y": 3516,
+    "w": 2032,
+    "h": 1406,
+    "assigned": "shabnam-8.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2764,
+    "y": 5142,
+    "w": 1512,
+    "h": 1238,
+    "assigned": "shabnam-9.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 266,
+    "y": 6772,
+    "w": 1984,
+    "h": 1054,
+    "assigned": "shabnam-10.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 5
+ },
+ "22": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 4361,
+    "assigned": "mana-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "23": {
+  "mode": "cover",
+  "boxes": [
+   {
+    "x": 0,
+    "y": 0,
+    "w": 4560,
+    "h": 5586,
+    "assigned": "chapa-1.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 1
+ },
+ "24": {
+  "mode": "auto",
+  "boxes": [
+   {
+    "x": 192,
+    "y": 726,
+    "w": 1676,
+    "h": 1228,
+    "assigned": "chapa-2.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 2418,
+    "y": 2110,
+    "w": 1254,
+    "h": 1246,
+    "assigned": "chapa-3.jpg",
+    "kind": "photo"
+   },
+   {
+    "x": 504,
+    "y": 3976,
+    "w": 1598,
+    "h": 992,
+    "assigned": "chapa-4.jpg",
+    "kind": "photo"
+   }
+  ],
+  "n_labels": 3
+ }
+}

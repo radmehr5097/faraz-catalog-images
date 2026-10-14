@@ -1,0 +1,368 @@
+﻿گزارش نهایی استخراج محصولات کاتالوگ فراز هنر (v6)
+============================================================
+نام فایل = شماره چاپی روی صفحه کاتالوگ (ترتیبی از ابتدای کالکشن)
+ردیف‌های coming soon عکس ندارند، شماره‌شان حفظ و در گزارش آمده.
+
+
+کالکشن: chakameh
+     -> chakameh-1.jpg  box=(0,0,4560,5379)
+  صفحه 6 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> chakameh-2.jpg  box=(72,792,1074,874)
+     -> chakameh-3.jpg  box=(2374,2024,1548,1462)
+     -> chakameh-4.jpg  box=(468,3326,1724,1676)
+     -> chakameh-5.jpg  box=(2186,5146,2188,1320)
+     -> chakameh-6.jpg  box=(1082,6446,1534,1554)
+  صفحه 7 (auto): 5 عکس / 0 coming-soon / 5 لیبل
+     -> chakameh-7.jpg  box=(132,864,1656,866)
+     -> chakameh-8.jpg  box=(2284,2130,1884,1210)
+     -> chakameh-9.jpg  box=(188,3750,1914,1270)
+     -> chakameh-10.jpg  box=(2050,4874,1646,1660)
+     -> chakameh-11.jpg  box=(482,6532,1696,1718)
+  صفحه 8 (auto): 5 عکس / 0 coming-soon / 5 لیبل
+     -> chakameh-12.jpg  box=(378,608,1398,1214)
+     -> chakameh-13.jpg  box=(2142,2122,1976,1118)
+     -> chakameh-14.jpg  box=(462,3436,1584,1602)
+     -> chakameh-15.jpg  box=(2000,5438,2158,1182)
+  صفحه 9 (auto): 4 عکس / 0 coming-soon / 4 لیبل
+
+کالکشن: mahtab
+     -> mahtab-1.jpg  box=(0,0,4560,5547)
+  صفحه 11 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> mahtab-2.jpg  box=(286,476,1496,1326)
+     -> mahtab-3.jpg  box=(2496,1872,1184,1320)
+     -> mahtab-4.jpg  box=(268,3114,1580,1196)
+     -> mahtab-5.jpg  box=(2408,4316,1192,1298)
+     -> mahtab-6.jpg  box=(746,5516,1642,1130)
+     -> mahtab-7.jpg  box=(2146,6770,1308,1134)
+     ✗ mahtab-8: عکس ندارد (coming soon)
+  صفحه 12 (auto): 6 عکس / 0 coming-soon / 7 لیبل
+     -> mahtab-9.jpg  box=(126,546,1722,1174)
+     -> mahtab-10.jpg  box=(2520,1836,1516,1120)
+     -> mahtab-11.jpg  box=(458,3038,1562,1266)
+     -> mahtab-12.jpg  box=(2358,4352,1834,1218)
+     -> mahtab-13.jpg  box=(310,5682,1866,1236)
+  صفحه 13 (auto): 6 عکس / 0 coming-soon / 5 لیبل
+
+کالکشن: avin
+     -> avin-1.jpg  box=(0,0,4560,5441)
+  صفحه 19 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> avin-2.jpg  box=(252,306,1648,1538)
+     -> avin-3.jpg  box=(2286,1794,1676,1558)
+     -> avin-4.jpg  box=(346,3366,1596,1440)
+     -> avin-5.jpg  box=(2116,4852,1732,1596)
+     -> avin-6.jpg  box=(358,6478,1586,1466)
+  صفحه 20 (auto): 5 عکس / 0 coming-soon / 5 لیبل
+
+کالکشن: forouz
+     -> forouz-1.jpg  box=(0,0,4560,5353)
+  صفحه 25 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> forouz-2.jpg  box=(128,708,1692,1128)
+     -> forouz-3.jpg  box=(2342,1764,1158,1460)
+     -> forouz-4.jpg  box=(196,3156,1860,950)
+     -> forouz-5.jpg  box=(2336,4366,1294,1202)
+     -> forouz-6.jpg  box=(862,5418,1126,1256)
+     -> forouz-7.jpg  box=(2272,6652,1262,1300)
+  صفحه 26 (auto): 6 عکس / 0 coming-soon / 6 لیبل
+     -> forouz-8.jpg  box=(358,698,1408,1222)
+     -> forouz-9.jpg  box=(2208,1900,1550,1506)
+     -> forouz-10.jpg  box=(600,2876,1508,1762)
+     -> forouz-11.jpg  box=(2222,4400,1794,1554)
+     -> forouz-12.jpg  box=(786,5622,1528,1344)
+     -> forouz-13.jpg  box=(2170,6714,1386,1536)
+  صفحه 27 (auto): 6 عکس / 0 coming-soon / 6 لیبل
+     -> forouz-14.jpg  box=(312,676,1520,1258)
+     -> forouz-15.jpg  box=(2318,1928,1574,1370)
+     -> forouz-16.jpg  box=(388,3124,1596,1222)
+     -> forouz-17.jpg  box=(2174,4322,1498,1524)
+     -> forouz-18.jpg  box=(708,5516,1632,1404)
+     -> forouz-19.jpg  box=(2096,6836,1504,1306)
+  صفحه 28 (auto): 6 عکس / 0 coming-soon / 6 لیبل
+
+کالکشن: ferdows
+     -> ferdows-1.jpg  box=(0,0,4560,5403)
+  صفحه 35 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> ferdows-2.jpg  box=(92,840,1846,968)
+     -> ferdows-3.jpg  box=(2324,2324,1976,920)
+     -> ferdows-4.jpg  box=(192,3852,1924,816)
+     -> ferdows-5.jpg  box=(2268,5008,2086,1368)
+     -> ferdows-6.jpg  box=(124,6478,2164,1430)
+     ✗ ferdows-7: عکس ندارد (coming soon)
+  صفحه 36 (auto): 5 عکس / 0 coming-soon / 6 لیبل
+     -> ferdows-8.jpg  box=(32,616,1952,1214)
+     -> ferdows-9.jpg  box=(2038,2004,2154,1388)
+     -> ferdows-10.jpg  box=(274,3446,2042,1450)
+     -> ferdows-11.jpg  box=(1874,4922,2288,1526)
+     -> ferdows-12.jpg  box=(136,6332,2298,1550)
+     ✗ ferdows-13: عکس ندارد (coming soon)
+  صفحه 37 (auto): 5 عکس / 0 coming-soon / 6 لیبل
+     -> ferdows-14.jpg  box=(2070,1896,1984,1278)
+     -> ferdows-15.jpg  box=(216,3582,2206,1078)
+     -> ferdows-16.jpg  box=(2136,4800,2052,1502)
+     ✗ ferdows-17: عکس ندارد (coming soon)
+     ✗ ferdows-18: عکس ندارد (coming soon)
+  صفحه 38 (auto): 3 عکس / 0 coming-soon / 5 لیبل
+     -> ferdows-19.jpg  box=(0,336,2014,1486)
+     -> ferdows-20.jpg  box=(2300,1916,1828,1350)
+     -> ferdows-21.jpg  box=(2328,4802,2034,1562)
+     -> ferdows-22.jpg  box=(74,6686,2112,1314)
+     ✗ ferdows-23: عکس ندارد (coming soon)
+  صفحه 39 (auto): 4 عکس / 0 coming-soon / 5 لیبل
+     -> ferdows-24.jpg  box=(90,696,2216,1388)
+     -> ferdows-25.jpg  box=(2142,2052,2064,1222)
+     -> ferdows-26.jpg  box=(114,3828,2320,982)
+  صفحه 40 (auto): 4 عکس / 0 coming-soon / 3 لیبل
+
+کالکشن: golestan
+     -> golestan-1.jpg  box=(0,0,4560,5412)
+  صفحه 43 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> golestan-2.jpg  box=(54,908,2230,1138)
+     -> golestan-3.jpg  box=(1870,1958,2318,1450)
+     -> golestan-4.jpg  box=(202,3426,2230,1332)
+     ✗ golestan-5: عکس ندارد (coming soon)
+     ✗ golestan-6: عکس ندارد (coming soon)
+  صفحه 44 (auto): 3 عکس / 0 coming-soon / 5 لیبل
+     -> golestan-7.jpg  box=(184,328,2060,1354)
+     -> golestan-8.jpg  box=(2574,2178,1662,1090)
+     -> golestan-9.jpg  box=(332,3582,2052,1118)
+     -> golestan-10.jpg  box=(2430,5196,1896,980)
+     -> golestan-11.jpg  box=(208,6688,1970,1022)
+  صفحه 45 (auto): 5 عکس / 0 coming-soon / 5 لیبل
+     -> golestan-12.jpg  box=(120,612,2092,950)
+     -> golestan-13.jpg  box=(2554,2076,1884,1002)
+     -> golestan-14.jpg  box=(2252,4856,1716,1378)
+     -> golestan-15.jpg  box=(296,6424,1816,1490)
+     ✗ golestan-16: عکس ندارد (coming soon)
+  صفحه 46 (auto): 4 عکس / 0 coming-soon / 5 لیبل
+     -> golestan-17.jpg  box=(174,628,1780,1172)
+     -> golestan-18.jpg  box=(2460,1894,1824,1328)
+     -> golestan-19.jpg  box=(184,3556,1902,1226)
+     -> golestan-20.jpg  box=(2258,4704,1784,1662)
+     -> golestan-21.jpg  box=(298,6334,1840,1506)
+  صفحه 47 (auto): 5 عکس / 0 coming-soon / 5 لیبل
+
+کالکشن: miras
+     -> miras-1.jpg  box=(0,0,4560,5320)
+  صفحه 55 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> miras-2.jpg  box=(496,392,1200,1502)
+     -> miras-3.jpg  box=(2216,4226,1126,1422)
+     -> miras-4.jpg  box=(950,5342,1122,1482)
+     -> miras-5.jpg  box=(2138,6572,1062,1394)
+     ✗ miras-6: عکس ندارد (coming soon)
+     ✗ miras-7: عکس ندارد (coming soon)
+     ✗ miras-8: عکس ندارد (coming soon)
+  صفحه 56 (auto): 4 عکس / 0 coming-soon / 7 لیبل
+     -> miras-9.jpg  box=(486,386,1126,1550)
+     -> miras-10.jpg  box=(2254,1678,1304,1638)
+     -> miras-11.jpg  box=(2304,4142,1238,1562)
+     -> miras-12.jpg  box=(574,5242,1310,1648)
+     ✗ miras-13: عکس ندارد (coming soon)
+     ✗ miras-14: عکس ندارد (coming soon)
+  صفحه 57 (auto): 4 عکس / 0 coming-soon / 6 لیبل
+     -> miras-15.jpg  box=(450,474,1304,1652)
+     -> miras-16.jpg  box=(2300,1966,1324,1666)
+     -> miras-17.jpg  box=(574,3212,1380,1712)
+     -> miras-18.jpg  box=(2220,4616,1322,1666)
+     -> miras-19.jpg  box=(678,6046,1488,1860)
+     ✗ miras-20: عکس ندارد (coming soon)
+  صفحه 58 (auto): 5 عکس / 0 coming-soon / 6 لیبل
+
+کالکشن: rastin
+     -> rastin-1.jpg  box=(0,0,4560,5337)
+  صفحه 60 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> rastin-2.jpg  box=(812,362,1096,1480)
+     -> rastin-3.jpg  box=(2646,1858,996,1504)
+     -> rastin-4.jpg  box=(812,3262,1164,1472)
+     -> rastin-5.jpg  box=(2522,4592,1170,1650)
+     -> rastin-6.jpg  box=(742,6288,1184,1552)
+  صفحه 61 (auto): 5 عکس / 0 coming-soon / 5 لیبل
+     -> rastin-7.jpg  box=(580,416,1070,1442)
+     -> rastin-8.jpg  box=(2678,1772,980,1472)
+     -> rastin-9.jpg  box=(696,3120,1162,1684)
+     -> rastin-10.jpg  box=(2512,4708,1180,1660)
+     ✗ rastin-11: عکس ندارد (coming soon)
+  صفحه 62 (auto): 4 عکس / 0 coming-soon / 5 لیبل
+
+کالکشن: naghmeh
+     -> naghmeh-1.jpg  box=(0,0,4560,5320)
+  صفحه 66 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> naghmeh-2.jpg  box=(232,550,1660,1354)
+     -> naghmeh-3.jpg  box=(2630,2018,1462,1320)
+     -> naghmeh-4.jpg  box=(180,3450,1774,1586)
+     -> naghmeh-5.jpg  box=(2308,4964,1684,1390)
+     -> naghmeh-6.jpg  box=(216,6780,1780,1030)
+     ✗ naghmeh-7: عکس ندارد (coming soon)
+  صفحه 67 (auto): 5 عکس / 0 coming-soon / 6 لیبل
+     -> naghmeh-8.jpg  box=(262,420,1812,1354)
+     -> naghmeh-9.jpg  box=(2408,2014,1866,1250)
+     -> naghmeh-10.jpg  box=(282,3454,2010,1440)
+     -> naghmeh-11.jpg  box=(2542,5156,1766,1024)
+     -> naghmeh-12.jpg  box=(328,6542,1810,1354)
+     ✗ naghmeh-13: عکس ندارد (coming soon)
+  صفحه 68 (auto): 5 عکس / 0 coming-soon / 6 لیبل
+     -> naghmeh-14.jpg  box=(174,486,1860,1340)
+     -> naghmeh-15.jpg  box=(2428,1872,1864,1416)
+     -> naghmeh-16.jpg  box=(2000,4828,2250,1572)
+     -> naghmeh-17.jpg  box=(70,6334,2430,1598)
+  صفحه 69 (auto): 4 عکس / 0 coming-soon / 4 لیبل
+     -> naghmeh-18.jpg  box=(2270,2016,1814,1276)
+     -> naghmeh-19.jpg  box=(308,3474,1806,1326)
+     ✗ naghmeh-20: عکس ندارد (coming soon)
+  صفحه 70 (auto): 2 عکس / 0 coming-soon / 3 لیبل
+
+کالکشن: delkash
+     -> delkash-1.jpg  box=(0,0,4560,5353)
+  صفحه 73 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> delkash-2.jpg  box=(326,370,1454,1634)
+     -> delkash-3.jpg  box=(2692,1724,1466,1668)
+     -> delkash-4.jpg  box=(316,3058,1664,1826)
+     -> delkash-5.jpg  box=(2604,4740,1542,1810)
+     -> delkash-6.jpg  box=(508,6204,1454,1750)
+  صفحه 74 (auto): 5 عکس / 0 coming-soon / 5 لیبل
+     -> delkash-7.jpg  box=(398,276,1558,1612)
+     -> delkash-8.jpg  box=(2560,1758,1488,1532)
+     -> delkash-9.jpg  box=(2582,4744,1642,1696)
+     -> delkash-10.jpg  box=(180,6248,1626,1684)
+     ✗ delkash-11: عکس ندارد (coming soon)
+  صفحه 75 (auto): 4 عکس / 0 coming-soon / 5 لیبل
+     -> delkash-12.jpg  box=(2566,1768,1538,1504)
+     -> delkash-13.jpg  box=(208,3222,2128,1774)
+     -> delkash-14.jpg  box=(2548,4634,1666,1758)
+     -> delkash-15.jpg  box=(342,6144,2094,1768)
+     ✗ delkash-16: عکس ندارد (coming soon)
+  صفحه 76 (auto): 4 عکس / 0 coming-soon / 5 لیبل
+     -> delkash-17.jpg  box=(518,718,1302,1082)
+     -> delkash-18.jpg  box=(2428,1606,1372,1656)
+  صفحه 77 (auto): 3 عکس / 0 coming-soon / 2 لیبل
+
+کالکشن: shirin
+     -> shirin-1.jpg  box=(0,0,3637,4895)
+  صفحه 63 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> shirin-2.jpg  box=(520,382,1280,1606)
+     -> shirin-3.jpg  box=(2646,1704,1346,1618)
+     -> shirin-4.jpg  box=(208,6432,1484,1492)
+     ✗ shirin-5: عکس ندارد (coming soon)
+     ✗ shirin-6: عکس ندارد (coming soon)
+  صفحه 64 (auto): 3 عکس / 0 coming-soon / 5 لیبل
+     -> shirin-7.jpg  box=(358,458,1486,1538)
+     -> shirin-8.jpg  box=(2786,1824,1294,1552)
+     -> shirin-9.jpg  box=(554,3374,1164,1530)
+     -> shirin-10.jpg  box=(0,7070,2924,930)
+     ✗ shirin-11: عکس ندارد (coming soon)
+     ✗ shirin-12: عکس ندارد (coming soon)
+     ✗ shirin-13: عکس ندارد (coming soon)
+     ✗ shirin-14: عکس ندارد (coming soon)
+     ✗ shirin-15: عکس ندارد (coming soon)
+  صفحه 65 (auto): 4 عکس / 0 coming-soon / 9 لیبل
+
+کالکشن: afraz
+     -> afraz-1.jpg  box=(0,0,4560,5287)
+  صفحه 71 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> afraz-2.jpg  box=(2478,1770,1734,1756)
+     -> afraz-3.jpg  box=(238,3250,1796,1830)
+     -> afraz-4.jpg  box=(2462,4744,1826,1884)
+     ✗ afraz-5: عکس ندارد (coming soon)
+  صفحه 72 (auto): 3 عکس / 0 coming-soon / 4 لیبل
+
+کالکشن: shaukat
+     -> shaukat-1.jpg  box=(0,0,4560,4982)
+  صفحه 78 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> shaukat-2.jpg  box=(242,490,1772,1558)
+     -> shaukat-3.jpg  box=(2340,1740,1810,1658)
+     -> shaukat-4.jpg  box=(266,3378,1892,1694)
+     ✗ shaukat-5: عکس ندارد (coming soon)
+  صفحه 79 (auto): 3 عکس / 0 coming-soon / 4 لیبل
+
+کالکشن: farkhondeh
+     -> farkhondeh-1.jpg  box=(0,0,4560,5333)
+  صفحه 15 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> farkhondeh-2.jpg  box=(0,468,2124,1404)
+     -> farkhondeh-3.jpg  box=(2404,2046,1864,1338)
+     -> farkhondeh-4.jpg  box=(186,3438,1928,1510)
+     -> farkhondeh-5.jpg  box=(2034,5014,1838,1470)
+     -> farkhondeh-6.jpg  box=(324,6650,1892,1436)
+     ✗ farkhondeh-7: عکس ندارد (coming soon)
+  صفحه 16 (auto): 5 عکس / 0 coming-soon / 6 لیبل
+     -> farkhondeh-8.jpg  box=(326,308,1828,1402)
+     -> farkhondeh-9.jpg  box=(2224,1876,1768,1312)
+     -> farkhondeh-10.jpg  box=(350,3316,1926,1484)
+  صفحه 17 (auto): 3 عکس / 0 coming-soon / 3 لیبل
+
+کالکشن: nabat
+     -> nabat-1.jpg  box=(0,0,4560,4862)
+  صفحه 31 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> nabat-2.jpg  box=(420,968,1272,834)
+     -> nabat-3.jpg  box=(2056,2046,1836,1386)
+     -> nabat-4.jpg  box=(432,3568,1450,1320)
+     -> nabat-5.jpg  box=(2400,4966,1586,1252)
+     ✗ nabat-6: عکس ندارد (coming soon)
+     ✗ nabat-7: عکس ندارد (coming soon)
+  صفحه 32 (auto): 4 عکس / 0 coming-soon / 6 لیبل
+
+کالکشن: soha
+     -> soha-1.jpg  box=(0,0,4560,5457)
+  صفحه 34 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+
+کالکشن: charmineh
+     -> charmineh-1.jpg  box=(0,0,4560,5599)
+  صفحه 41 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> charmineh-2.jpg  box=(454,340,1264,1556)
+     -> charmineh-3.jpg  box=(2262,1692,1250,1478)
+     -> charmineh-4.jpg  box=(596,2834,1354,1644)
+     -> charmineh-5.jpg  box=(2210,4104,1264,1544)
+     -> charmineh-6.jpg  box=(278,5358,1288,1574)
+     -> charmineh-7.jpg  box=(2340,6342,1272,1658)
+  صفحه 42 (auto): 6 عکس / 0 coming-soon / 6 لیبل
+
+کالکشن: naghsh
+     -> naghsh-1.jpg  box=(0,0,4560,5245)
+  صفحه 30 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+
+کالکشن: ara
+     -> ara-1.jpg  box=(0,0,4560,5478)
+  صفحه 49 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> ara-2.jpg  box=(394,268,1318,1650)
+     -> ara-3.jpg  box=(2432,1652,1484,1700)
+     -> ara-4.jpg  box=(646,3178,1434,1636)
+     -> ara-5.jpg  box=(2402,4542,1526,1954)
+     -> ara-6.jpg  box=(542,6132,1574,1794)
+     ✗ ara-7: عکس ندارد (coming soon)
+  صفحه 50 (auto): 5 عکس / 0 coming-soon / 6 لیبل
+     -> ara-8.jpg  box=(300,258,1400,1702)
+     -> ara-9.jpg  box=(414,3238,1546,1668)
+     -> ara-10.jpg  box=(2256,4574,1502,1954)
+     -> ara-11.jpg  box=(442,6120,1498,1806)
+  صفحه 51 (auto): 4 عکس / 0 coming-soon / 4 لیبل
+
+کالکشن: shabnam
+     -> shabnam-1.jpg  box=(0,0,4560,5008)
+  صفحه 52 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> shabnam-2.jpg  box=(128,528,1760,1308)
+     -> shabnam-3.jpg  box=(246,3438,1662,1280)
+     -> shabnam-4.jpg  box=(2220,5190,1876,986)
+     ✗ shabnam-5: عکس ندارد (coming soon)
+     ✗ shabnam-6: عکس ندارد (coming soon)
+  صفحه 53 (auto): 3 عکس / 0 coming-soon / 5 لیبل
+     -> shabnam-7.jpg  box=(2234,2164,1878,986)
+     -> shabnam-8.jpg  box=(226,3516,2032,1406)
+     -> shabnam-9.jpg  box=(2764,5142,1512,1238)
+     -> shabnam-10.jpg  box=(266,6772,1984,1054)
+     ✗ shabnam-11: عکس ندارد (coming soon)
+  صفحه 54 (auto): 4 عکس / 0 coming-soon / 5 لیبل
+
+کالکشن: mana
+     -> mana-1.jpg  box=(0,0,4560,4361)
+  صفحه 22 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+
+کالکشن: chapa
+     -> chapa-1.jpg  box=(0,0,4560,5586)
+  صفحه 23 (cover): 1 عکس / 0 coming-soon / 1 لیبل
+     -> chapa-2.jpg  box=(192,726,1676,1228)
+     -> chapa-3.jpg  box=(2418,2110,1254,1246)
+     -> chapa-4.jpg  box=(504,3976,1598,992)
+  صفحه 24 (auto): 3 عکس / 0 coming-soon / 3 لیبل
+
+============================================================
+جمع کل برش‌ها: 210
+coming soon (بدون عکس): 37
+  mahtab-8, ferdows-7, ferdows-13, ferdows-17, ferdows-18, ferdows-23, golestan-5, golestan-6, golestan-16, miras-6, miras-7, miras-8, miras-13, miras-14, miras-20, rastin-11, naghmeh-7, naghmeh-13, naghmeh-20, delkash-11, delkash-16, shirin-5, shirin-6, shirin-11, shirin-12, shirin-13, shirin-14, shirin-15, afraz-5, shaukat-5, farkhondeh-7, nabat-6, nabat-7, ara-7, shabnam-5, shabnam-6, shabnam-11
+عکس اضافه: 3  mahtab p13: 1 عکس اضافه; ferdows p40: 1 عکس اضافه; delkash p77: 1 عکس اضافه
